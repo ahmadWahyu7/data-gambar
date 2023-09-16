@@ -1,0 +1,1 @@
+const contoh = 1;
